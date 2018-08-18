@@ -1,0 +1,38 @@
+.parent{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	background:#ff33ea;
+}
+.child1{
+	width:30%;
+	border:1px solid #ddd;
+	padding:1%;
+	margin:1%;
+	background:white;
+}
+.child2{
+	width:70%;
+	border:1px solid #ddd;
+	padding:1%;
+	margin:1%;
+	background: grey;
+}
+h1{
+	color:#1b55e9;
+	text-align:center;
+}
+.profile{
+  		display:block;
+  		margin-left:auto;
+  		margin-right:auto;
+  		width:200px;
+  		height:auto;
+  	}
+a{
+	text-decoration: none;
+	font-size:22px;
+}
+p{
+	font-size:20px;
+}
